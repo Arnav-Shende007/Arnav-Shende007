@@ -37,6 +37,26 @@ class Arnav:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
 
+### `projects`
+
+<div align="center">
+
+[![sentinel-ai](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=sentinel-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/sentinel-ai)
+<!-- ADD PROJECT 2: uncomment below and replace YOUR_REPO_NAME -->
+<!-- [![repo-name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/YOUR_REPO_NAME) -->
+
+<!-- ADD PROJECT 3: uncomment below and replace YOUR_REPO_NAME -->
+<!-- [![repo-name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/YOUR_REPO_NAME) -->
+
+<!-- ADD PROJECT 4: uncomment below and replace YOUR_REPO_NAME -->
+<!-- [![repo-name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/YOUR_REPO_NAME) -->
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%"/>
+
 ### `stats`
 
 <div align="center">
