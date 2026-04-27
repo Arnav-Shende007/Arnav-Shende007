@@ -43,7 +43,7 @@ class Arnav:
 
 [![sentinel-ai](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=sentinel-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/sentinel-ai)
 <!-- ADD PROJECT 2: uncomment below and replace YOUR_REPO_NAME -->
-[![NeuroStep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=NeuroStep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/NeuroStep) -->
+[![NeuroStep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=NeuroStep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/NeuroStep)
 
 <!-- ADD PROJECT 3: uncomment below and replace YOUR_REPO_NAME -->
 <!-- [![repo-name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/YOUR_REPO_NAME) -->
