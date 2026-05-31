@@ -45,7 +45,6 @@ class Arnav:
 [![NeuroStep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=NeuroStep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/NeuroStep)
 
 [![OsteoVision](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=OsteoVision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/OsteoVision)
-[![coming-soon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007)
 
 </div>
 
