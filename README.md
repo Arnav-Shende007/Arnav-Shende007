@@ -41,10 +41,10 @@ class Arnav:
 
 <div align="center">
 
-[![sentinel-ai](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=sentinel-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/sentinel-ai)
-[![NeuroStep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=NeuroStep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/NeuroStep)
+[![sentinel-ai](https://github-readme-stats-umber-delta-45.vercel.app/api/pin/?username=Arnav-Shende007&repo=sentinel-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/sentinel-ai)
+[![NeuroStep](https://github-readme-stats-umber-delta-45.vercel.app/api/pin/?username=Arnav-Shende007&repo=NeuroStep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/NeuroStep)
 
-[![OsteoVision](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arnav-Shende007&repo=OsteoVision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/OsteoVision)
+[![OsteoVision](https://github-readme-stats-umber-delta-45.vercel.app/api/pin/?username=Arnav-Shende007&repo=OsteoVision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&border_radius=6)](https://github.com/Arnav-Shende007/OsteoVision)
 
 </div>
 
@@ -56,8 +56,8 @@ class Arnav:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arnav-Shende007&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117&rank_icon=github&card_width=420&border_radius=6" height="155"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arnav-Shende007&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=6&card_width=280&border_radius=6" height="155"/>
+<img src="https://github-readme-stats-umber-delta-45.vercel.app/api?username=Arnav-Shende007&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117&rank_icon=github&card_width=420&border_radius=6" height="155"/>
+<img src="https://github-readme-stats-umber-delta-45.vercel.app/api/top-langs/?username=Arnav-Shende007&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=6&card_width=280&border_radius=6" height="155"/>
 
 <br/>
 
